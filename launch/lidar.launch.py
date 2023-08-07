@@ -15,8 +15,7 @@ def generate_launch_description():
                 'frame_id': 'laser_frame',
                 'angle_compensate': True,
                 'scan_mode': 'Standard'
-                'serial_baud: 115200'
-                'laser_frame_id: laser'
+               
  
             }]
         )
